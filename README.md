@@ -1,4 +1,17 @@
 # Changelog
+# Version 1.11 (8/4/2026)
+## General
+- Removed "Shield Abilities"
+  - While it is nice to have this in reference to his SRB2 counterpart, this feels really unnecessary to have. Consider that we are working with Sonic 3, having shield abilities on characters that isn't Sonic feels out of place. Plus, better off to wait for a mod that allows shield abilities for everyone. Don't ask me to do it.
+- Removed Hyper Dash for Hyper Dirk
+  - Not only Hyper Dash feels unnecessary to have, but it does make Hyper Dirk feel overpowered. We want the hyper form to feel strong, but balanced at the same time. Having three times the amount of duration for ice surf is powerful enough.
+## Ice Surf
+- Ice surf speed has been nerfed. Thanks Dynamic Lemons.
+  - After a while of thinking it over, we thought that ice surf felt a bit overpowering when you are normal. With the nerfs, the ice surf feels like a combination between Tails' fight and Knuckles' glide. Besides, I want my characters to feel like they belong in the game as it did in the 1990s. It's how it was with the trio in Extra Character Framework, and I want to accomplish the same thing here.
+## Bugfixes and Tweaks
+- Prevented sound spam for ice shards
+- Updated mod icons and save data icons
+  - I forgot to apply the 36 index rule to those sprites. Whoops!
 
 # Version 1.10 (7/31/2026)
 
